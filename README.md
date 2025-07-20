@@ -61,3 +61,11 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [Express.js Documentation](https://expressjs.com/)
 - [RESTful API Design Best Practices](https://restfulapi.net/)
 - [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) 
+
+## Product API — Express.js Assignment
+
+## How to Run
+
+```bash
+npm install
+node server.js
